@@ -1,3 +1,6 @@
 export default {
-     API_key: '18623542-c3ea86fe133d4cad85931c408',
+     body: document.querySelector('body'),
+     form: document.getElementById('search-form'),
+     imput: document.getElementById('query'),
+     galleryList: document.querySelector('.gallery'),
 };

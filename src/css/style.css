@@ -1,4 +1,8 @@
 body {
-  background-color: green;
+  background-color: gray;
   color: wheat;
+  list-style: none;
+}
+ul {
+  list-style: none;
 }
