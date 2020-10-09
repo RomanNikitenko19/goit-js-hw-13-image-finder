@@ -1,11 +1,49 @@
-body {
+body{
+  /* background: url('https://i.pinimg.com/originals/53/06/97/530697ceb2fba1691aee67f35e5639e2.jpg'); */
+  list-style-type: none;
+  font-size: 40px;
   background-color: gray;
-  color: wheat;
-  list-style: none;
 }
-ul {
-  list-style: none;
+form{
+  margin-top: 50px;
+  /* width: 100px; */
+  text-align: center;
 }
-.hidden {
-  display: none;
+input{
+  width: 500px;
+  height: 50px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding-left: 10px;
+  outline: none;
+}
+img{
+  border-radius: 1%;
+  width: 600px;
+}
+.gallery{
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.gallery > .item{
+  background: grey;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 5%;
+  height: 560px;
+}
+.loadMore-button {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  padding: 20px 30px;
+  background: white;
+  border: 1px solid grey;
+  border-radius: 4%;
+}
+.hidden{
+  display: block;
 }
