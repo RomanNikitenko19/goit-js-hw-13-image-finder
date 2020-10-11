@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/RomanNikitenko19/goit-js-hw-13-image-finder.git"
   },
-  "homepage": "https://github.com/RomanNikitenko19/goit-js-hw-13-image-finder.git",
+  "homepage": "https://romannikitenko19.github.io/goit-js-hw-13-image-finder/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
